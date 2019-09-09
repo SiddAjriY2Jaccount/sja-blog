@@ -1,2 +1,2 @@
 # sja-blog
-Personal website
+Personal blog
