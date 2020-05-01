@@ -7,7 +7,7 @@ work: [Natural Language Processing, Data Mining]
 techs: [Python, Pandas, NLTK, Keras, Scikit-Learn]
 draft: false
 #designs: [Photoshop]
-thumbnail: innointel/icon.png
+thumbnail: innointel/innointel.png
 #projectUrl: https://www.vincere-solutions.com
 #testimonial:
 #  name: John Doe

@@ -7,7 +7,7 @@ work: [Machine Learning, DevOps]
 techs: [Docker, Python, Pandas, Keras, Google Cloud Platform, Shell]
 draft: false
 #designs: [Photoshop]
-thumbnail: wipro_internship/logo.jpeg
+thumbnail: wipro_internship/wipro.png
 #projectUrl: https://www.vincere-solutions.com
 #testimonial:
 #  name: John Doe
