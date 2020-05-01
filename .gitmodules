@@ -1,3 +1,7 @@
 [submodule "themes/personal-web"]
 	path = themes/personal-web
 	url = https://github.com/bjacquemet/personal-web.git
+[submodule "public"]
+	path = public
+	url = git@github.com:SiddAjriY2Jaccount/SiddAjriY2Jaccount.github.io.git
+	branch = master
