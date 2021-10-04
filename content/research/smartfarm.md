@@ -4,7 +4,7 @@ description: Research conducted to determine viabilty/feasibilty of Farm enabled
 #date: "2019-05-02T19:49:05+02:00"
 date: "2018"
 projectUrl: "https://ijsrst.com/IJSRST185309"
-publishDate: "2018-05-02T19:49:05+02:00"
+publishDate: "2018-06-06T19:49:05+02:00"
 ---
 
 This research was conducted to determine how viable it would be to set up IoT-enabled indoor farm using the concept of Hydroponics. 

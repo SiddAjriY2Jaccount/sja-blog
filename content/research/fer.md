@@ -3,8 +3,8 @@ title: Emotion Recognition through Facial Expressions in Children and Adults usi
 description: FER performance using Facial Landmarks for images of Children and Adults
 #date: "2019-05-02T19:49:05+02:00"
 #date: "2019"
-projectUrl: "TBD"
-publishDate: "2019-11-18T19:49:05+02:00"
+#projectUrl: ""
+publishDate: "2020-06-26T19:49:05+02:00"
 ---
 
 
@@ -46,4 +46,4 @@ NB: if `techs`, `designs` or `projectUrl` is not defined, it will not be display
 
 The purpose of this research was to develop a light-weight model that achieves fairly accurate results for FER in Children. Furthermore, through experimentation, we were able to find the differentiating features between Children and Adults for FER as well as determine the optimal, lowest number of key Facial Landmark points required to be plotted for FER. 
 
-Find my research profile [here](https://drive.google.com/file/d/1xrek9nFKP0BwowGDtie0HO1WMxH0aRPh/view?usp=sharing).
+This work is the subject of a paper that was presented during the ACN 2019 Conference, presented at the Fifth International Symposium on Intelligent Systems Technologies and Applications (ISTA'19), Springer library. The link to the journal can be found [here](https://www.springer.com/gp/book/9789811539138).

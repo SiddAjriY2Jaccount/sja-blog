@@ -3,7 +3,7 @@ title: FaceBook OpenEDS Challenge
 description: Semantic Segmentation track
 #date: "2019-05-02T19:49:05+02:00"
 date: "2019"
-projectUrl: "TBD"
+#projectUrl: "TBD"
 publishDate: "2019-11-22T19:49:05+02:00"
 ---
 
@@ -44,4 +44,4 @@ NB: if `techs`, `designs` or `projectUrl` is not defined, it will not be display
 
 Using open sourced Eye Dataset provided by FaceBook, Semantic Segmentation was performed to identify four classes in an eye image: sclera, iris, pupil and the background. We were able to develop a model using an Encoder-Decoder network with Skip Connections approach to reduce model complexity that was able to beat the baseline model provided by FaceBook.
 
-Find my research profile [here](https://drive.google.com/file/d/1xrek9nFKP0BwowGDtie0HO1WMxH0aRPh/view?usp=sharing).
+A paper outlining this work was published in the Journal of Intelligent & Fuzzy Systems, IOS Press, linked [here](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs189858).
